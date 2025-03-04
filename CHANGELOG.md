@@ -1,3 +1,15 @@
+## 0.1.0 (2025-03-04)
+
+
+### 🚀 Features
+
+- add timeout refresh for access token instead of relying on failed requests ([515d82a53](https://github.com/playa3ull/playa3ull-ecosystem/commit/515d82a53))
+
+
+### ❤️  Thank You
+
+- Jourdan Haines @jourdanhaines
+
 ## 0.1.0-testnet.3 (2025-02-19)
 
 This was a version bump only for node-cli to align it with other projects, there were no code changes.
