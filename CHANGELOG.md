@@ -1,3 +1,15 @@
+## 0.2.0 (2025-03-13)
+
+
+### 🚀 Features
+
+- add timeout refresh for access token instead of relying on failed requests ([515d82a53](https://github.com/playa3ull/playa3ull-ecosystem/commit/515d82a53))
+
+
+### ❤️  Thank You
+
+- Jourdan Haines @jourdanhaines
+
 ## 0.1.0 (2025-03-04)
 
 
