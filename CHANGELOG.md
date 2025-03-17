@@ -1,3 +1,15 @@
+## 0.3.8 (2025-03-17)
+
+
+### 🩹 Fixes
+
+- use top-level env for esbuild config ([6169e8e07](https://github.com/playa3ull/playa3ull-ecosystem/commit/6169e8e07))
+
+
+### ❤️  Thank You
+
+- Jourdan Haines @jourdanhaines
+
 ## 0.3.7 (2025-03-17)
 
 This was a version bump only for node-cli to align it with other projects, there were no code changes.
