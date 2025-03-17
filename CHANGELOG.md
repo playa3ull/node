@@ -1,3 +1,7 @@
+## 0.3.6 (2025-03-17)
+
+This was a version bump only for node-cli to align it with other projects, there were no code changes.
+
 ## 0.3.5 (2025-03-17)
 
 
