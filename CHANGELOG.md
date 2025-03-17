@@ -1,3 +1,15 @@
+## 0.4.2 (2025-03-17)
+
+
+### 🩹 Fixes
+
+- trycatch authentication ([bf2301d78](https://github.com/playa3ull/playa3ull-ecosystem/commit/bf2301d78))
+
+
+### ❤️  Thank You
+
+- Jourdan Haines @jourdanhaines
+
 ## 0.4.1 (2025-03-17)
 
 This was a version bump only for node-cli to align it with other projects, there were no code changes.
