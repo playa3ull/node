@@ -1,3 +1,15 @@
+## 0.4.0 (2025-03-17)
+
+
+### 🚀 Features
+
+- get auth tokens from license key pass through ([d897de7f0](https://github.com/playa3ull/playa3ull-ecosystem/commit/d897de7f0))
+
+
+### ❤️  Thank You
+
+- Jourdan Haines @jourdanhaines
+
 ## 0.3.9 (2025-03-17)
 
 
