@@ -1,3 +1,15 @@
+## 0.3.5 (2025-03-17)
+
+
+### 🚀 Features
+
+- inject vars into file to be read at build time ([5f0cadbe8](https://github.com/playa3ull/playa3ull-ecosystem/commit/5f0cadbe8))
+
+
+### ❤️  Thank You
+
+- Jourdan Haines @jourdanhaines
+
 ## 0.3.4 (2025-03-17)
 
 
