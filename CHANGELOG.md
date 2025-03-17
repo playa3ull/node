@@ -1,3 +1,15 @@
+## 0.4.3 (2025-03-17)
+
+
+### 🚀 Features
+
+- add licnese key environment variable ([836d59a21](https://github.com/playa3ull/playa3ull-ecosystem/commit/836d59a21))
+
+
+### ❤️  Thank You
+
+- Sam Thompson-Kennedy
+
 ## 0.4.2 (2025-03-17)
 
 
