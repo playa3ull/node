@@ -26,7 +26,7 @@ docker run ghcr.io/playa3ull/node --license=############-####-####-####-########
 
 #### Environment Variable
 ```bash
-docker run ghcr.io/playa3ull/node -e LICENSE_KEY=############-####-####-####-############
+docker run -e LICENSE_KEY=############-####-####-####-############ ghcr.io/playa3ull/node
 ```
 
 Get your license key via your [Account page on the dApp](https://app.playa3ull.games/account).
