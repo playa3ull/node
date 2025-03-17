@@ -1,3 +1,15 @@
+## 0.3.4 (2025-03-17)
+
+
+### 🚀 Features
+
+- update dockerfile ([8c0bc9e5c](https://github.com/playa3ull/playa3ull-ecosystem/commit/8c0bc9e5c))
+
+
+### ❤️  Thank You
+
+- Jourdan Haines @jourdanhaines
+
 ## 0.3.3 (2025-03-17)
 
 
