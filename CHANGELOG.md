@@ -1,3 +1,15 @@
+## 0.3.1 (2025-03-17)
+
+
+### 🚀 Features
+
+- changelog for 0.3.0 node cli ([f4bee00d8](https://github.com/playa3ull/playa3ull-ecosystem/commit/f4bee00d8))
+
+
+### ❤️  Thank You
+
+- Jourdan Haines @jourdanhaines
+
 ## 0.3.0 (2025-03-17)
 
 Initial public release of the PLAYA3ULL GAMES Master Node Software.
