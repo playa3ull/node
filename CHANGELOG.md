@@ -1,3 +1,15 @@
+## 0.4.5 (2025-03-17)
+
+
+### 🚀 Features
+
+- add terminal refresh rate environment variable ([47d4dbebe](https://github.com/playa3ull/playa3ull-ecosystem/commit/47d4dbebe))
+
+
+### ❤️  Thank You
+
+- Jourdan Haines @jourdanhaines
+
 ## 0.4.4 (2025-03-17)
 
 This was a version bump only for node-cli to align it with other projects, there were no code changes.
