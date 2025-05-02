@@ -1,17 +1,30 @@
+## 0.4.9 (2025-05-02)
+
+
+### 🚀 Features
+
+- Added Instrument.mjs to All Apps ([702a8361d](https://github.com/playa3ull/playa3ull-ecosystem/commit/702a8361d))
+
+
+### ❤️  Thank You
+
+- Arian Valaei @Arrival-19
+
 ## 0.4.8 (2025-05-02)
 
 ### Improvements
 
-- Application will continue to attempt a reconnect to the Master Node Network, even if it is down for long stretches of time
+- Application will continue to attempt a reconnect to the Master Node Network, even if it is down for long stretches of
+  time
 
 ### Fixes
 
-- Fixed an issue where the uptime calculate was taking into account the time since the client session was created, instead of the time since the last uptime request was made
+- Fixed an issue where the uptime calculate was taking into account the time since the client session was created,
+  instead of the time since the last uptime request was made
 
-### ❤️  Thank You
+### ❤️ Thank You
 
 - Jourdan Haines @jourdanhaines
-
 
 ## 0.4.7 (2025-03-19)
 
