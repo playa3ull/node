@@ -1,17 +1,5 @@
 ## 0.4.9 (2025-05-02)
 
-
-### 🚀 Features
-
-- Added Instrument.mjs to All Apps ([702a8361d](https://github.com/playa3ull/playa3ull-ecosystem/commit/702a8361d))
-
-
-### ❤️  Thank You
-
-- Arian Valaei @Arrival-19
-
-## 0.4.8 (2025-05-02)
-
 ### Improvements
 
 - Application will continue to attempt a reconnect to the Master Node Network, even if it is down for long stretches of
