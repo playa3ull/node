@@ -1,23 +1,17 @@
 ## 0.4.8 (2025-05-02)
 
+### Improvements
 
-### 🚀 Features
+- Application will continue to attempt a reconnect to the Master Node Network, even if it is down for long stretches of time
 
-- update changelog ([21d686bf0](https://github.com/playa3ull/playa3ull-ecosystem/commit/21d686bf0))
+### Fixes
 
-
-### 🩹 Fixes
-
-- continue attempting reconnect even if api is completely down ([e78895341](https://github.com/playa3ull/playa3ull-ecosystem/commit/e78895341))
-
-- node api use specific client per request instead of mixing client header changes ([518c70f0e](https://github.com/playa3ull/playa3ull-ecosystem/commit/518c70f0e))
-
-- uptime calculation no longer takes into account the session creation time, but time since last uptime update ([6db0eb573](https://github.com/playa3ull/playa3ull-ecosystem/commit/6db0eb573))
-
+- Fixed an issue where the uptime calculate was taking into account the time since the client session was created, instead of the time since the last uptime request was made
 
 ### ❤️  Thank You
 
 - Jourdan Haines @jourdanhaines
+
 
 ## 0.4.7 (2025-03-19)
 
