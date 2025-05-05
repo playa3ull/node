@@ -1,3 +1,7 @@
+## 0.4.11 (2025-05-05)
+
+This was a version bump only for node-cli to align it with other projects, there were no code changes.
+
 ## 0.4.10 (2025-05-05)
 
 ### Fixes
