@@ -1,12 +1,10 @@
 ## 0.4.10 (2025-05-05)
 
+### Fixes
 
-### 🩹 Fixes
+- Fixed an issue that would cause the application to exit if it failed to refresh an authentication token
 
-- log out on failed refresh allowing for re-authentication with license key ([7e6d5e6ce](https://github.com/playa3ull/playa3ull-ecosystem/commit/7e6d5e6ce))
-
-
-### ❤️  Thank You
+### ❤️ Thank You
 
 - Jourdan Haines @jourdanhaines
 
