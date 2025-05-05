@@ -1,3 +1,15 @@
+## 0.4.10 (2025-05-05)
+
+
+### 🩹 Fixes
+
+- log out on failed refresh allowing for re-authentication with license key ([7e6d5e6ce](https://github.com/playa3ull/playa3ull-ecosystem/commit/7e6d5e6ce))
+
+
+### ❤️  Thank You
+
+- Jourdan Haines @jourdanhaines
+
 ## 0.4.9 (2025-05-02)
 
 ### Improvements
