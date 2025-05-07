@@ -1,3 +1,15 @@
+## 0.4.12-0 (2025-05-07)
+
+
+### 🩹 Fixes
+
+- set interval in milliseconds, not seconds... and save newly refreshed tokens ([50fe79a87](https://github.com/playa3ull/playa3ull-ecosystem/commit/50fe79a87))
+
+
+### ❤️  Thank You
+
+- Jourdan Haines @jourdanhaines
+
 ## 0.4.11 (2025-05-05)
 
 This was a version bump only for node-cli to align it with other projects, there were no code changes.
