@@ -1,20 +1,15 @@
 ## 0.4.12-0 (2025-05-07)
 
+### Fixes
 
-### 🩹 Fixes
+- Fixed an issue that would cause newly refreshed tokens to not be saved
+- Fixed an auto-refresh session issue that would cause the application to hang
 
-- set interval in milliseconds, not seconds... and save newly refreshed tokens ([50fe79a87](https://github.com/playa3ull/playa3ull-ecosystem/commit/50fe79a87))
-
-
-### ❤️  Thank You
+### ❤️ Thank You
 
 - Jourdan Haines @jourdanhaines
 
 ## 0.4.11 (2025-05-05)
-
-This was a version bump only for node-cli to align it with other projects, there were no code changes.
-
-## 0.4.10 (2025-05-05)
 
 ### Fixes
 
