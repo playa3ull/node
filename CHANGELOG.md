@@ -1,12 +1,10 @@
 ## 0.4.14 (2025-05-12)
 
-### Features
+### Improvements
 
+- Report version number of application for debugging purposes when making network requests
 
-- require version if running cli with versioning constraints
-
-
-### ❤️  Thank You
+### ❤️ Thank You
 
 - Jourdan Haines @jourdanhaines
 
