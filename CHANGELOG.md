@@ -1,3 +1,13 @@
+## 0.4.15 (2025-05-12)
+
+### Improvements
+
+- Report additional metrics when making network requests to better support debugging
+
+### ❤️ Thank You
+
+- Jourdan Haines @jourdanhaines
+
 ## 0.4.14 (2025-05-12)
 
 ### Improvements
