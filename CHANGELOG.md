@@ -1,4 +1,4 @@
-## 0.4.15 (2025-05-12)
+## 0.4.16 (2025-05-12)
 
 ### Improvements
 
@@ -13,10 +13,6 @@
 ### Improvements
 
 - Report version number of application for debugging purposes when making network requests
-
-### ❤️ Thank You
-
-- Jourdan Haines @jourdanhaines
 
 ## 0.4.13 (2025-05-07)
 
