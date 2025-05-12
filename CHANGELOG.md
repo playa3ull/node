@@ -1,3 +1,15 @@
+## 0.4.14 (2025-05-12)
+
+### Features
+
+
+- require version if running cli with versioning constraints
+
+
+### ❤️  Thank You
+
+- Jourdan Haines @jourdanhaines
+
 ## 0.4.13 (2025-05-07)
 
 This was a version bump only, there were no code changes.
