@@ -1,3 +1,9 @@
+## 0.4.20 (2025-05-22)
+
+### Fixes
+
+- Fixed an issue where a node could become stuck in a disconnected state and not reconnect to the network.
+
 ## 0.4.19 (2025-05-22)
 
 ### Fixes
