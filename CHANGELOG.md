@@ -1,3 +1,10 @@
+## 0.4.19 (2025-05-22)
+
+### Fixes
+
+- Fixed an issue that would cause the application to crash if the node tried reconnecting to the network after a sudden
+  disconnect, after it had been online for a long time.
+
 ## 0.4.18 (2025-05-22)
 
 ### Fixes
