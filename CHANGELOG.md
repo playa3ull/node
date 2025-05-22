@@ -1,4 +1,11 @@
+## 0.4.18 (2025-05-22)
+
+### Fixes
+
+- Fixed an issue where an instance of the software would not reconnect to the same session on restart from a crash.
+
 ## 0.4.17 (2025-05-12)
+
 This was a version bump only, there were no code changes.
 
 ## 0.4.16 (2025-05-12)
