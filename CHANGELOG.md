@@ -1,3 +1,10 @@
+## 0.4.21 (2025-05-23)
+
+### Fixes
+
+- Fixed an issue that would cause the application to reconnect multiple times if the connection was lost and the last
+  event was a disconnect event.
+
 ## 0.4.20 (2025-05-22)
 
 ### Fixes
