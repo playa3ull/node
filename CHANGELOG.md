@@ -1,3 +1,18 @@
+## 0.4.22 (2025-05-26)
+
+### Improvements
+
+- Added support for improved logging tools to aid in troubleshooting issues.
+
+### Fixes
+
+- Fixed an issue that would cause the application to crash if an invalid response was received from the Master Node
+  Network whilst getting the uptime.
+    - Developer note: This would happen from time to time if the network was down for a short period of time, or if the
+      network was under heavy load and the request timed out.
+- Fixed an issue that would cause the application to make progressively more and more requests to the Master Node
+  Network the longer the application was running, which would eventually lead to a crash.
+
 ## 0.4.21 (2025-05-23)
 
 ### Fixes
