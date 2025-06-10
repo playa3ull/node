@@ -1,3 +1,10 @@
+## 0.4.24 (2025-06-10)
+
+### Features
+
+- Added support for network pre-authorization which should improve the reliability of connections to the Master Node
+  Network.
+
 ## 0.4.23 (2025-05-27)
 
 ### Fixes
