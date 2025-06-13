@@ -1,3 +1,15 @@
+## 0.4.25 (2025-06-13)
+
+### Improvements
+
+- Added a max reconnect attempts to ensure that if the Master Node Network is down for an extended period of
+  time, the application will not continue to attempt to reconnect indefinitely.
+
+### Fixes
+
+- Fixed an issue that would cause the application to spam the Master Node Network with requests if it was unable to
+  connect to the network, which could lead to a denial-of-service attack on the network.
+
 ## 0.4.24 (2025-06-10)
 
 ### Features
