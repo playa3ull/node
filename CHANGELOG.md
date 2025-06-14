@@ -1,3 +1,10 @@
+## 0.4.26 (2025-06-14)
+
+### Improvements
+
+- Improved socket connection logic.
+- Added additional logging for network connections and reconnections to aid in debugging.
+
 ## 0.4.25 (2025-06-13)
 
 ### Improvements
