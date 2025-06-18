@@ -1,3 +1,21 @@
+## 0.4.27 (2025-06-18)
+
+### Improvements
+
+- Improved the logging of network request errors.
+- Overhauled the reconnect logic to be every 5 minutes with a maximum of 5 attempts, instead of every 15 seconds with a maximum of 50 attempts. In the future this will be changed to an exponential backoff strategy.
+- Added a retry mechanism if the application starts and is immediately unable to make any successful network requests.
+- Added memory usage output to the application to help with debugging and performance monitoring.
+- Added a fallback authentication flow to ensure that the application can still function if the initial authentication fails.
+
+### Fixes
+
+- Prevented the application from fetching uptime whilst it was no longer connected to the network. This reduces strain
+  on the network and prevents unnecessary requests from being made when the application is not connected.
+- Fixed an issue that would cause conflicting reconnects, which could lead to multiple open connections and subsequently 
+  multiple subscriptions to the same events.
+- Fixed an issue that would persist network subscriptions, which could lead the application to not properly handle reconnections.
+
 ## 0.4.26 (2025-06-14)
 
 ### Improvements
