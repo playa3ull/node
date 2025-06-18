@@ -1,3 +1,9 @@
+## 0.4.28 (2025-06-18)
+
+### Fixes
+
+- Added a process fail check if re-authentication fails twice and after 5 minutes.
+
 ## 0.4.27 (2025-06-18)
 
 ### Improvements
