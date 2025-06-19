@@ -1,3 +1,9 @@
+## 0.4.29 (2025-06-19)
+
+### Improvements
+
+- Changed the default uptime fetch period to 2 minutes and 30 seconds.
+
 ## 0.4.28 (2025-06-18)
 
 ### Fixes
