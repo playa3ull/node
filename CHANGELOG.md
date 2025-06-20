@@ -1,3 +1,10 @@
+## 0.4.30 (2025-06-20)
+
+### Improvements
+
+- Added a random reconnect offset when reconnecting.
+- Added a timer to show when the application will next attempt to reconnect to the Master Node Network.
+
 ## 0.4.29 (2025-06-19)
 
 ### Improvements
